@@ -1,6 +1,6 @@
 {
   "name": "bare-refresh-watch",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Watch the files of a development build for changes",
   "exports": {
     "./package": "./package.json",
